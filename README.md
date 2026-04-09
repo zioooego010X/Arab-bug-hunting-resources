@@ -1,4 +1,3 @@
-# Arab-bug-hunting-resources
  مصادر متنوعة لاخوتنا صيادين الحشرات محتوي باللغة العربية
  اخواتي ال bug hunters الشقيانين المكافحين المتمرمطين ده collection resources لكل المستويات متقسم من ليفيل zero 
  ومصادر ل topics مختلفة في مجال ال bug bounty 
